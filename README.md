@@ -16,4 +16,7 @@ You can add an image or a code block, too.
    puts "Hello World"
 ```
 
+[x] aaaa
+[] bbb
+
 </details>
