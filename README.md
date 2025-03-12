@@ -25,7 +25,7 @@ Additionally, all hands-on code will be stored in this repository.
 - **Video Course:** _dbt Course_ <https://learn.getdbt.com>
 - **Resources:* _dbt Labs Tests and guides_
 
-### Study Tracking
+### Study Tracking - Analytics Engineering With SQL And DBT
 
 - [x]  <s>Chapter 1: Analytics Engineering</s> 
 
