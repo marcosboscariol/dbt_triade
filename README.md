@@ -27,11 +27,17 @@ Additionally, all hands-on code will be stored in this repository.
 
 ### Study Tracking
 
-- [ ]  Chapter 1: xxxx
+- [x]  <s>Chapter 1: Analytics Engineering</s> 
 
-(link to git repo, if applicable)
+- [ ]  Chapter 2: Data Modeling for Analytics
 
-- [ ]  Chapter 2: xxx
+- [ ]  Chapter 3: SQL for Analytics
+
+- [ ]  Chapter 4: Data Transformation with dbt
+
+- [ ]  Chapter 5: dbt Advanced Topics
+
+- [ ]  Chapter 6: Building an End-to-End Analytics Engineering Use Case
 
 (link to git repo, if applicable)
 
