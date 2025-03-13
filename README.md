@@ -29,7 +29,7 @@ Additionally, all hands-on code will be stored in this repository.
 
 - [x]  <s>Chapter 1: Analytics Engineering</s> 
 
-- [ ]  Chapter 2: Data Modeling for Analytics
+- [x]  <s>Chapter 2: Data Modeling for Analytics</s>
 
 - [ ]  Chapter 3: SQL for Analytics
 
