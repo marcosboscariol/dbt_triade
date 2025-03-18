@@ -62,4 +62,4 @@ Ipson Lorem
 
 Apply all acquired knowledge to a **real-world case study**.
 
-![alt text](study_case_draw.jpg)
+![alt text](images/study_case_draw.jpg)
