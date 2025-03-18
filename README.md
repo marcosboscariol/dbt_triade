@@ -31,7 +31,7 @@ Additionally, all hands-on code will be stored in this repository.
 
 - [x]  <s>Chapter 2: Data Modeling for Analytics</s>
 
-- [ ]  Chapter 3: SQL for Analytics
+- [ ]  Chapter 3: SQL for Analytics: [text](https://github.com/marcosboscariol/dbt_triade/blob/main/chapters/chapter3.md)
 
 - [ ]  Chapter 4: Data Transformation with dbt
 
