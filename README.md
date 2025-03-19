@@ -33,7 +33,7 @@ Additionally, all hands-on code will be stored in this repository.
 
 - [x]  <s>Chapter 3: SQL for Analytics</s>
 
-[Chapter 3 Notes](https://github.com/marcosboscariol/dbt_triade/blob/main/chapters/chapter3.md)
+    [Chapter 3 Notes](https://github.com/marcosboscariol/dbt_triade/blob/main/chapters/chapter3.md)
 
 - [ ]  Chapter 4: Data Transformation with dbt
 
