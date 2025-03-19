@@ -23,7 +23,7 @@ Additionally, all hands-on code will be stored in this repository.
 
 - **Book:** _Analytics Engineering With SQL And DBT_
 - **Video Course:** _dbt Course_ <https://learn.getdbt.com>
-- **Resources:* _dbt Labs Tests and guides_
+- **Resources:** _dbt Labs Tests and guides_
 
 ### Study Tracking - Analytics Engineering With SQL And DBT
 
