@@ -27,13 +27,11 @@ Additionally, all hands-on code will be stored in this repository.
 
 ### Study Tracking - Analytics Engineering With SQL And DBT
 
-- [x]  <s>Chapter 1: Analytics Engineering</s> 
+- [x]  Chapter 1: Analytics Engineering
 
-- [x]  <s>Chapter 2: Data Modeling for Analytics</s>
+- [x]  Chapter 2: Data Modeling for Analytics
 
-- [x]  <s>Chapter 3: SQL for Analytics</s>
-
-    [Chapter 3 Notes](https://github.com/marcosboscariol/dbt_triade/blob/main/chapters/chapter3.md)
+- [x]  [Chapter 3: SQL for Analytics](https://github.com/marcosboscariol/dbt_triade/blob/main/chapters/chapter3.md)
 
 - [ ]  Chapter 4: Data Transformation with dbt
 
