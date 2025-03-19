@@ -78,3 +78,13 @@ FROM cte_name
 
 - Tool that improves efficiency and reduces query complexity when analyzing partitions or windows of a dataset
 - Avoid the use of complicated subqueries
+
+```sql
+SELECT column1,
+ column2,
+ ...,
+ window_function() OVER (PARTITION BY column1,
+ column2,
+ ... ORDER BY column3, column4, ...)
+FROM table_name;
+```
