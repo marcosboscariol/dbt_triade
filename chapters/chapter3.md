@@ -34,3 +34,47 @@
 ### Database Management System
 
 - Software that enables database creation, organization, management and manipulation, providing an interface and tools for the users, allowing data storage, retrieval, modification and deletion
+- Primary Functions
+    - Data definition
+    - Data manipulation
+    - Data security and integrity
+    - Data concurrency and transaction management
+    - Data recovery and backup
+- DBMS types of language:
+    - Data definition language (DDL)
+    - Data manipulation language (DML)
+    - Data control language (DCL)
+    - Transaction control language (TCL)
+- Most common DDL commands
+    - `CREATE`
+    - `DROP`
+    - `ALTER`
+    - `RENAME`
+    - `TRUNCATE`
+    - `CONSTRAINT`
+    - `INDEX`
+- Most common constraints
+    - *Primary key*
+    - *Foreign Key*
+    - *Unique*
+    - *Check*
+    - *Not null*
+
+### Common Table Expressions (CTE)
+
+- Tool that act as a temporary result set, simplifying  complex queries and improve query maintainability
+- CTEs allow us to tackle complex problems by breaking them into smaller, more manageable pieces, organizing and structuring our queries with more modularly and readably
+
+```sql
+WITH cte_name (column1, column2, ..., columnN) AS (
+ -- Query definition goes here
+)
+SELECT column1, column2, ..., columnN
+FROM cte_name
+-- Additional query operations go here
+```
+
+### Window Function
+
+- Tool that improves efficiency and reduces query complexity when analyzing partitions or windows of a dataset
+- Avoid the use of complicated subqueries
